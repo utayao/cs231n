@@ -5,7 +5,7 @@ import numpy as np
 This file defines layer types that are commonly used for recurrent neural
 networks.
 """
-
+"Modified by Jiawen"
 
 def rnn_step_forward(x, prev_h, Wx, Wh, b):
   """
